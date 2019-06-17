@@ -1,0 +1,783 @@
+TOne Minute
+v7
+r0
+t308383771.219787
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/Info.plist" One_Minute-Info.plist
+cCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib"
+cCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib"
+cCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib"
+cCpResource "build/Debug-iphonesimulator/One Minute.app/button-highlight.png" button-highlight.png
+cCpResource "build/Debug-iphonesimulator/One Minute.app/button.png" button.png
+cCpResource "build/Debug-iphonesimulator/One Minute.app/iPhoneMenuBG.png" iPhoneMenuBG.png
+cProcessPCH /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/main.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/View_SwitcherAppDelegate.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/SwitchViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/BlueViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/YellowViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner_Extensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSCharacterSet_Extensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSDictionary_JSONExtensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSScanner_Extensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDataSerializer.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDeserializer.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONScanner.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONSerializer.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CSerializedJSONData.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/AdViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute" normal i386
+cGenerateDSYMFile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app.dSYM" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute"
+cTouch "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A4D1600000000001E06E0
+t1280986390
+s1967840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004C68B9E40000000000000268
+t1281931748
+s616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C68BA00000000000015B0F0
+t1281931776
+s1421552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.h
+c000000004C9F7243000000000000095B
+t1285517891
+s2395
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m
+c000000004C9F72430000000000001674
+t1285517891
+s5748
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdMobDelegateProtocol.h
+c000000004C9FAD9B0000000000002109
+t1285533083
+s8457
+i<UIKit/UIKit.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdMobView.h
+c000000004C9F72430000000000000A76
+t1285517891
+s2678
+i<UIKit/UIKit.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.h
+c000000004C9FE92B00000000000006D1
+t1285548331
+s1745
+i<UIKit/UIKit.h>
+i"AdMobDelegateProtocol.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m
+c000000004C9FE9EB0000000000000CE8
+t1285548523
+s3304
+i"AdMobView.h"
+i"AdViewController.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib
+c000000004C9FBE870000000000006857
+t1285537415
+s26711
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.h
+c000000004CA01A580000000000000237
+t1285560920
+s567
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i"AdViewController.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m
+c000000004CA0E2E90000000000000427
+t1285612265
+s1063
+i<MediaPlayer/MediaPlayer.h>
+i"BlueViewController.h"
+i"AdViewController.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.h
+c000000004CAD544500000000000002F4
+t1286427717
+s756
+i<UIKit/UIKit.h>
+i"BlueViewController.h"
+i"YellowViewController.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m
+c000000004CAD54490000000000000B42
+t1286427721
+s2882
+i"SwitchViewController.h"
+i"BlueViewController.h"
+i"YellowViewController.h"
+i"AdViewController.h"
+i"AdMobView.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.h
+c000000004C7AE559000000000000020F
+t1283122521
+s527
+i<UIKit/UIKit.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m
+c000000004C7AF20C0000000000000A38
+t1283125772
+s2616
+i"View_SwitcherAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib
+c000000004CAD553A0000000000006E0C
+t1286427962
+s28172
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.h
+c000000004CAD556C000000000000026A
+t1286428012
+s618
+i<UIKit/UIKit.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m
+c000000004CAD55850000000000000556
+t1286428037
+s1366
+i"YellowViewController.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/libAdMob.a
+c000000004C9F7243000000000023DC9C
+t1285517891
+s2350236
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.h
+c000000004C9F724300000000000005AD
+t1285517891
+s1453
+i"CDataScanner.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m
+c000000004C9F724300000000000009EC
+t1285517891
+s2540
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.h
+c000000004C9F7243000000000000057A
+t1285517891
+s1402
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m
+c000000004C9F72430000000000000731
+t1285517891
+s1841
+i"NSCharacterSet_Extensions.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.h
+c000000004C9F72430000000000000598
+t1285517891
+s1432
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m
+c000000004C9F72430000000000000613
+t1285517891
+s1555
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.h
+c000000004C9F72430000000000000656
+t1285517891
+s1622
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m
+c000000004C9F72430000000000000D65
+t1285517891
+s3429
+i"NSScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.h
+c000000004C9F72430000000000000716
+t1285517891
+s1814
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m
+c000000004C9F72430000000000001AB2
+t1285517891
+s6834
+i"CJSONDataSerializer.h"
+i"CSerializedJSONData.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.h
+c000000004C9F72430000000000000681
+t1285517891
+s1665
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m
+c000000004C9F72430000000000000B3A
+t1285517891
+s2874
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.h
+c000000004C9F7243000000000000081C
+t1285517891
+s2076
+i"CDataScanner.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m
+c000000004C9F724300000000000039AA
+t1285517891
+s14762
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.h
+c000000004C9F72430000000000000787
+t1285517891
+s1927
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m
+c000000004C9F724300000000000008C6
+t1285517891
+s2246
+i"CJSONSerializer.h"
+i"CJSONDataSerializer.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.h
+c000000004C9F724300000000000005A9
+t1285517891
+s1449
+i<Foundation/Foundation.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m
+c000000004C9F724300000000000005FB
+t1285517891
+s1531
+i"CSerializedJSONData.h"
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib
+c000000004C9FAE9B0000000000006603
+t1285533339
+s26115
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/View_Switcher_Prefix.pch
+c000000004C7AE2C100000000000000C3
+t1283121857
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app
+t1286690971
+s374
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app.dSYM
+t1286690971
+s102
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/BlueView.nib
+t1286690968
+s4100
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/Info.plist
+t1286690967
+s585
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/MainWindow.nib
+t1286690967
+s2528
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute
+t1286690971
+s485920
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/PkgInfo
+t1286690967
+s8
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/YellowView.nib
+t1286690968
+s4405
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/button-highlight.png
+t1286690968
+s4681
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/button.png
+t1286690968
+s4710
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/iPhoneMenuBG.png
+t1286690968
+s132414
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/AdViewController.o
+t1286690970
+s46620
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/BlueViewController.o
+t1286690969
+s38052
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner.o
+t1286690969
+s26604
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner_Extensions.o
+t1286690969
+s10148
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDataSerializer.o
+t1286690970
+s24212
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDeserializer.o
+t1286690970
+s11664
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONScanner.o
+t1286690970
+s34052
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONSerializer.o
+t1286690970
+s12444
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CSerializedJSONData.o
+t1286690970
+s8140
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSCharacterSet_Extensions.o
+t1286690970
+s7000
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSDictionary_JSONExtensions.o
+t1286690970
+s7316
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSScanner_Extensions.o
+t1286690970
+s13612
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/One Minute.LinkFileList
+c000000004CB158960000000000000BE3
+t1286690966
+s3043
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/SwitchViewController.o
+t1286690969
+s46404
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/View_SwitcherAppDelegate.o
+t1286690969
+s50304
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/YellowViewController.o
+t1286690969
+s40116
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/main.o
+t1286690969
+s6400
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/button-highlight.png
+c000000004C89D9660000000000001249
+t1284102502
+s4681
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/button.png
+c000000004C89D9760000000000001266
+t1284102518
+s4710
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/iPhoneMenuBG.png
+c000000004C9FA789000000000002053E
+t1285531529
+s132414
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m
+c000000004C7AE2C1000000000000017E
+t1283121857
+s382
+i<UIKit/UIKit.h>
+
+N/var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch.gch
+t1284223343
+s15211536
+
+NOne_Minute-Info.plist
+c000000004CB158960000000000000366
+t1286690966
+s870
+
+NView_Switcher-Info.plist
+c000000004C7AE2C1000000000000038D
+t1283121857
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308383766#308383766#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/AdViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.380914
+e308383770.499012
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/AdViewController.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m308383770#308383770#0(0"0(0#0#113"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m8610229664#2562"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/AdViewController.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/AdViewController.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/BlueViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.652144
+e308383769.783774
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/BlueViewController.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m308383769#308383769#0(0"0(0#0#115"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m8610001440#2566"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueViewController.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/BlueViewController.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.783875
+e308383769.959217
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m308383769#308383769#0(0"0(0#0#101"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m8610479808#2546"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/CDataScanner.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner_Extensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.884396
+e308383769.969099
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner_Extensions.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m308383769#308383769#0(0"0(0#0#123"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m8598963936#2579"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/CDataScanner_Extensions.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CDataScanner_Extensions.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDataSerializer.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.053219
+e308383770.201011
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDataSerializer.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m308383770#308383770#0(0"0(0#0#113"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m8606820416#2565"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDataSerializer.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDataSerializer.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDeserializer.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.160636
+e308383770.245341
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDeserializer.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m308383770#308383770#0(0"0(0#0#111"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m8610838432#2561"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONDeserializer.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONDeserializer.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONScanner.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.201127
+e308383770.380793
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONScanner.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m308383770#308383770#0(0"0(0#0#106"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m8609766592#2551"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONScanner.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONScanner.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONSerializer.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.245463
+e308383770.335206
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONSerializer.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m308383770#308383770#0(0"0(0#0#109"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m8609477280#2557"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CJSONSerializer.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CJSONSerializer.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CSerializedJSONData.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.335327
+e308383770.417416
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CSerializedJSONData.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m308383770#308383770#0(0"0(0#0#113"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m8610856672#2565"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/JSON/CSerializedJSONData.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/CSerializedJSONData.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSCharacterSet_Extensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.959335
+e308383770.047591
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSCharacterSet_Extensions.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m308383769#308383770#0(0"0(0#0#125"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m8611138688#2583"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSCharacterSet_Extensions.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSCharacterSet_Extensions.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSDictionary_JSONExtensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.969219
+e308383770.053101
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSDictionary_JSONExtensions.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m308383769#308383770#0(0"0(0#0#127"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m8610661824#2587"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSDictionary_JSONExtensions.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSScanner_Extensions.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383770.047712
+e308383770.160401
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSScanner_Extensions.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m308383770#308383770#0(0"0(0#0#120"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m8609960416#2573"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Extensions/NSScanner_Extensions.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/NSScanner_Extensions.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/SwitchViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.623019
+e308383769.782096
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/SwitchViewController.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m308383769#308383769#0(0"0(0#0#117"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m8610580672#2570"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/SwitchViewController.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/SwitchViewController.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/View_SwitcherAppDelegate.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383768.603486
+e308383769.652022
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/View_SwitcherAppDelegate.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m308383768#308383769#0(0"0(0#0#121"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m8607616832#2578"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/View_SwitcherAppDelegate.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/View_SwitcherAppDelegate.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/YellowViewController.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383769.782221
+e308383769.884205
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/YellowViewController.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m308383769#308383769#0(0"0(0#0#117"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m8610981088#2570"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowViewController.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/YellowViewController.o"0#
+
+CCompileC "build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/main.o" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308383768.602153
+e308383769.622899
+r1
+xCompileC
+xbuild/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/main.o
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m308383768#308383769#0(0"0(0#0#93"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m8606111296#2530"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-generated-files.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-own-target-headers.hmap" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-all-target-headers.hmap" -iquote "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/One Minute-project-headers.hmap" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/include" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources/i386" "-I/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/DerivedSources" -include /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/main.m" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib"
+s308383767.066765
+e308383768.243963
+r1
+xCompileXIB
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib
+lSLF07#2@31"CompileXIB Classes/BlueView.xib308383767#308383768#0(0"0(0#0#107"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib8609175520#727"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/BlueView.nib" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib"
+s308383767.963410
+e308383768.601756
+r1
+xCompileXIB
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib
+lSLF07#2@33"CompileXIB Classes/YellowView.xib308383767#308383768#0(0"0(0#0#109"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib8611877248#731"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/YellowView.nib" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib"
+s308383767.049268
+e308383767.963305
+r1
+xCompileXIB
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308383767#308383767#0(0"0(0#0#101"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib8612898656#723"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/MainWindow.nib" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/One Minute.app/button-highlight.png" button-highlight.png
+s308383768.244080
+e308383768.294335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/One Minute.app/button-highlight.png
+xbutton-highlight.png
+lSLF07#2@25"Copy button-highlight.png308383768#308383768#0(0"0(0#0#107"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/button-highlight.png8611854112#617"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/button-highlight.png" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app"0#
+
+CCpResource "build/Debug-iphonesimulator/One Minute.app/button.png" button.png
+s308383768.246166
+e308383768.316309
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/One Minute.app/button.png
+xbutton.png
+lSLF07#2@15"Copy button.png308383768#308383768#0(0"0(0#0#97"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/button.png8612738912#607"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/button.png" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app"0#
+
+CCpResource "build/Debug-iphonesimulator/One Minute.app/iPhoneMenuBG.png" iPhoneMenuBG.png
+s308383768.247034
+e308383768.318104
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/One Minute.app/iPhoneMenuBG.png
+xiPhoneMenuBG.png
+lSLF07#2@21"Copy iPhoneMenuBG.png308383768#308383768#0(0"0(0#0#103"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/iPhoneMenuBG.png8611028800#613"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/iPhoneMenuBG.png" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app"0#
+
+CGenerateDSYMFile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app.dSYM" "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute"
+s308383771.077167
+e308383771.189125
+r1
+xGenerateDSYMFile
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app.dSYM
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/One Minute.app.dSYM" "build/Debug-iphonesimulator/One Minute.app/One Minute"308383771#308383771#0(0"0(0#0#140"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute8611871168#542"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute" -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app.dSYM"0#
+
+CLd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute" normal i386
+s308383770.499120
+e308383771.077049
+r1
+xLd
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute
+xnormal
+xi386
+lSLF07#2@145"Link /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute308383770#308383771#0(0"0(0#0#0"8612582176#1362"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" "-L/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes" "-F/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator" -filelist "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/One Minute.build/Debug-iphonesimulator/One Minute.build/Objects-normal/i386/One Minute.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework MediaPlayer -framework MessageUI -lAdMob -framework QuartzCore -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/One Minute"0#
+
+CProcessInfoPlistFile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/Info.plist" One_Minute-Info.plist
+s308383766.991239
+e308383767.048902
+r1
+xProcessInfoPlistFile
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/Info.plist
+xOne_Minute-Info.plist
+lSLF07#2@29"Process One_Minute-Info.plist308383767#308383767#0(0"0(0#0#108"/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/One_Minute-Info.plist8031151153962903552#638"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility One_Minute-Info.plist -genpkginfo "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app/Info.plist" View_Switcher-Info.plist
+r0
+
+CProcessPCH /var/folders/Xn/Xn9Fdi1K2RW1lk+8ZRGTP++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_Switcher_Prefix-feahhoneduxouafuncpzhuvrfwta/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app"
+s308383771.189226
+e308383771.219710
+r1
+xTouch
+x/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app
+lSLF07#2@135"Touch /Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app308383771#308383771#0(0"0(0#0#0"8610987680#381"    cd "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug-iphonesimulator/One Minute.app"0#
+

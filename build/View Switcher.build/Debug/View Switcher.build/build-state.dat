@@ -1,0 +1,68 @@
+TView Switcher
+v7
+r1
+cCheck dependencies
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib
+c000000004C88454000000000000046F3
+t1283999040
+s18163
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib
+c000000004C8845550000000000004D3D
+t1283999061
+s19773
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib
+c000000004C88430100000000000064E3
+t1283998465
+s25827
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app
+t2
+s0
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app/Contents/Info.plist
+t2
+s0
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app/Contents/Resources/BlueView.nib
+t2
+s0
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app/Contents/Resources/YellowView.nib
+t2
+s0
+
+NView_Switcher-Info.plist
+c000000004C7AE2C1000000000000038D
+t1283121857
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305740509#305740509#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'305740509#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/BlueView.xib"
+r0
+
+CCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/Classes/YellowView.xib"
+r0
+
+CCompileXIB "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app/Contents/Info.plist" View_Switcher-Info.plist
+r0
+
+CTouch "/Users/hansvanriet/Documents/XCode Projects/Beginning iPhone Development/View Switcher/build/Debug/View Switcher.app"
+r0
+
